@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoIndicator</string>
+    <array name="demo">
+        <item >消息</item>
+        <item >新闻</item>
+        <item >财经</item>
+    </array>
+</resources>
