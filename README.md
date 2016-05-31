@@ -47,3 +47,6 @@
         mIndicator.setTabTips(1,10);
         mIndicator.setTabTips(2,2);
  ```
+
+4. 样式
+   ![图例](D:/IDEcode/pic.png)
