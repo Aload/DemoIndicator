@@ -1,5 +1,5 @@
 # DemoIndicator
-首次提交关于带bageviewIndicator
+首次提交关于带bageview的Indicator,使用者可以通过设置count来控制在indicator上面显示小的红点图标来显示多少未读或者已读.
 
 ### 一.How to use?
 
